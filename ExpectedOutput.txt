@@ -1,0 +1,111 @@
+Ship ID: ID-2
+Name: Ship-2
+Time In: 1:30
+Time Out: 8:00
+Credited Minutes: 5
+Extra Minutes: 385
+Fine: 174500 units
+
+Ship ID: ID-1
+Name: Ship-1
+Time In: 1:00
+Time Out: 8:30
+Credited Minutes: 5
+Extra Minutes: 445
+Fine: 204500 units
+
+Ship ID: ID-3
+Name: Ship-3
+Time In: 2:00
+Time Out: 9:00
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-4
+Name: Ship-4
+Time In: 2:30
+Time Out: 9:30
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-5
+Name: Ship-5
+Time In: 3:00
+Time Out: 10:00
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-6
+Name: Ship-6
+Time In: 3:30
+Time Out: 10:30
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-7
+Name: Ship-7
+Time In: 4:00
+Time Out: 11:00
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-8
+Name: Ship-8
+Time In: 4:30
+Time Out: 11:30
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-9
+Name: Ship-9
+Time In: 5:00
+Time Out: 12:00
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-10
+Name: Ship-10
+Time In: 5:30
+Time Out: 12:30
+Credited Minutes: 5
+Extra Minutes: 415
+Fine: 189500 units
+
+Ship ID: ID-12
+Name: Ship-12
+Time In: 8:45
+Time Out: 13:00
+Credited Minutes: 5
+Extra Minutes: 250
+Fine: 107000 units
+
+Ship ID: ID-11
+Name: Ship-11
+Time In: 8:15
+Time Out: 13:30
+Credited Minutes: 5
+Extra Minutes: 310
+Fine: 137000 units
+
+Ship ID: ID-13
+Name: Ship-13
+Time In: 9:15
+Time Out: 14:00
+Credited Minutes: 5
+Extra Minutes: 280
+Fine: 122000 units
+
+Ship ID: ID-14
+Name: Ship-14
+Time In: 9:45
+Time Out: 14:30
+Credited Minutes: 5
+Extra Minutes: 280
+Fine: 122000 units
